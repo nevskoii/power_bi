@@ -1,5 +1,7 @@
 # Amazon Sales Dashboard
 
+![Dashboard Screenshot](Dashboard.png)
+
 ## Overview
 
 Interactive sales analytics dashboard built in **Power BI** for monitoring Amazon marketplace performance.
